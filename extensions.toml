@@ -1852,6 +1852,10 @@ path = "zed"
 submodule = "extensions/lotus-theme"
 version = "0.1.0"
 
+[love2z]
+submodule = "extensions/love2dz"
+version = "0.1.0"
+
 [lox]
 submodule = "extensions/lox"
 version = "0.0.1"
@@ -4112,7 +4116,3 @@ version = "0.0.1"
 [zwirn]
 submodule = "extensions/zwirn"
 version = "0.2.0"
-
-[love2z]
-submodule = "extensions/love2dz"
-version = "0.1.0"
