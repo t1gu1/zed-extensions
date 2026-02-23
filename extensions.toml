@@ -4114,5 +4114,5 @@ submodule = "extensions/zwirn"
 version = "0.2.0"
 
 [love2z]
-submodule = "extensions/love2z"
+submodule = "extensions/love2dz"
 version = "0.1.0"
