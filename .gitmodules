@@ -1824,7 +1824,7 @@
 
 [submodule "extensions/love2z"]
 	path = extensions/love2z
-	url = https://github.com/t1gu1/love2z.git
+	url = https://github.com/t1gu1/love2Dz.git
 
 [submodule "extensions/lox"]
 	path = extensions/lox
