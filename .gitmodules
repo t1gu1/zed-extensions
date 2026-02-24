@@ -1822,9 +1822,9 @@
 	path = extensions/lotus-theme
 	url = https://github.com/skylissh/lotus-theme-zed.git
 
-[submodule "extensions/love2dz"]
-	path = extensions/love2dz
-	url = https://github.com/t1gu1/love2Dz.git
+[submodule "extensions/love2z"]
+	path = extensions/love2z
+	url = https://github.com/t1gu1/love2z.git
 
 [submodule "extensions/lox"]
 	path = extensions/lox

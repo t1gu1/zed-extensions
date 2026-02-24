@@ -1853,7 +1853,7 @@ submodule = "extensions/lotus-theme"
 version = "0.1.0"
 
 [love2z]
-submodule = "extensions/love2dz"
+submodule = "extensions/love2z"
 version = "0.1.0"
 
 [lox]
